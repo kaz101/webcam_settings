@@ -80,7 +80,7 @@ ubuntu-advantage-tools==20.3
 ubuntu-drivers-common==0.0.0
 ufw==0.36
 upgrade-ensurepip==0.2.1
-urllib3==1.25.8
+urllib3==1.26.5
 virtualenv==20.0.17
 wadllib==1.3.3
 wrapt==1.11.2
