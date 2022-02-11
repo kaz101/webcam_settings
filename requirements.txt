@@ -41,7 +41,7 @@ mccabe==0.6.1
 more-itertools==4.2.0
 netifaces==0.10.4
 oauthlib==3.1.0
-protobuf==3.6.1
+protobuf==3.15.0
 pycairo==1.16.2
 pycups==1.9.73
 pydbus==0.6.0
